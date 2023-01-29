@@ -1,0 +1,9 @@
+.texto-boton{
+    color:coral;
+}
+
+.texto-boton:hover{
+    background-color:green;
+    color:white;
+}
+
