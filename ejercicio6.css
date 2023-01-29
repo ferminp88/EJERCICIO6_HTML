@@ -6,4 +6,10 @@
     background-color:green;
     color:white;
 }
+.texto-boton::before {
+    content: "Pasa por encima"
+}
+.texto-boton::before {
+    content: "¡Hecho!"
+}
 
